@@ -8,3 +8,4 @@
 # UAS BAHASA PEMROGRAMAN
 # SMT 2
 >>>>>>> origin/main
+# UAS
